@@ -1,4 +1,3 @@
-# Laboratory Inventory & Borrowing Management System
-Teknologi: HTML/CSS/JavaScript, Node.js (Vercel Serverless Functions), MySQL (TiDB Cloud), Vercel.
-Tabel dibuat dan data awal diisi otomatis saat request pertama.
-Demo: admin / admin123 — staff / staff123
+# PinjamLab - Sistem Manajemen Inventaris dan Peminjaman Laboratorium
+Teknologi: HTML/CSS/JavaScript, Node.js (Vercel Serverless), MySQL (TiDB Cloud), Vercel.
+Demo: admin / admin123 - staff / staff123
